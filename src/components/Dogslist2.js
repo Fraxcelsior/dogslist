@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import * as request from 'superagent'
 
-export default class DogsList extends Component {
+export default class DogsList2 extends Component {
     state = {
         dogList: null
     }
