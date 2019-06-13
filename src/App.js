@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import DogsList from './components/Dogslist';
 import DogsListContainer from './components/DogsListContainer';
 
 class App extends React.Component {
